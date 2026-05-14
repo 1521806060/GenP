@@ -1,9 +1,13 @@
-# GenP
+# GenP【Adobe 克星】
 
 **This repository is maintained solely for archival and research reference.**
 
 **No end-user support is provided, and compatibility with current software versions is not guaranteed.**
 
+# 步骤
+**点击（Patch）选择Adobe的安装位置----搜索安装的Adobe
+**点击扫描（Search） -----等待它找到要pj的文件（比较慢）
+**点击修补（Patch）----等待完成即可
 ---
 
 ## Purpose
